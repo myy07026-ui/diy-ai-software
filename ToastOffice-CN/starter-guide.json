@@ -1,0 +1,474 @@
+{
+  "date": "",
+  "done": {},
+  "completedAt": {},
+  "notified": {},
+  "custom": [
+    {
+      "id": "guide-note-0",
+      "text": "使用说明：先看这里：如何使用吐司办公",
+      "section": "临时任务",
+      "note": "双击卡片阅读详细使用说明",
+      "time": "",
+      "reminderMode": "off",
+      "reminderAt": "",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "appearDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reviewMinutes": 0
+    },
+    {
+      "id": "guide-note-1",
+      "text": "使用说明：表单选择与固定工作安排",
+      "section": "临时任务",
+      "note": "双击卡片阅读详细使用说明",
+      "time": "",
+      "reminderMode": "off",
+      "reminderAt": "",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "appearDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reviewMinutes": 0
+    },
+    {
+      "id": "guide-note-2",
+      "text": "使用说明：定时提醒、完成后提醒与稍后提醒",
+      "section": "临时任务",
+      "note": "双击卡片阅读详细使用说明",
+      "time": "",
+      "reminderMode": "off",
+      "reminderAt": "",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "appearDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reviewMinutes": 0
+    },
+    {
+      "id": "guide-note-3",
+      "text": "使用说明：临时任务与自定义分组",
+      "section": "临时任务",
+      "note": "双击卡片阅读详细使用说明",
+      "time": "",
+      "reminderMode": "off",
+      "reminderAt": "",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "appearDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reviewMinutes": 0
+    },
+    {
+      "id": "guide-note-4",
+      "text": "使用说明：任务小文档、图片和文字",
+      "section": "临时任务",
+      "note": "双击卡片阅读详细使用说明",
+      "time": "",
+      "reminderMode": "off",
+      "reminderAt": "",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "appearDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reviewMinutes": 0
+    },
+    {
+      "id": "guide-note-5",
+      "text": "使用说明：排序与多选操作",
+      "section": "临时任务",
+      "note": "双击卡片阅读详细使用说明",
+      "time": "",
+      "reminderMode": "off",
+      "reminderAt": "",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "appearDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reviewMinutes": 0
+    },
+    {
+      "id": "guide-note-6",
+      "text": "使用说明：删除恢复与任务延期",
+      "section": "临时任务",
+      "note": "双击卡片阅读详细使用说明",
+      "time": "",
+      "reminderMode": "off",
+      "reminderAt": "",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "appearDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reviewMinutes": 0
+    },
+    {
+      "id": "guide-note-7",
+      "text": "使用说明：桌面操作、主题和数据保存",
+      "section": "临时任务",
+      "note": "双击卡片阅读详细使用说明",
+      "time": "",
+      "reminderMode": "off",
+      "reminderAt": "",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "appearDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reviewMinutes": 0
+    }
+  ],
+  "trash": [],
+  "edits": {},
+  "reviewRules": {},
+  "reviewPending": {},
+  "orders": {},
+  "snoozes": {},
+  "deferrals": {},
+  "groups": [
+    {
+      "id": "guide-group",
+      "name": "产品使用说明"
+    }
+  ],
+  "groupOrder": [
+    "guide-group",
+    "ungrouped"
+  ],
+  "defaultGroupName": "未分组",
+  "taskGroups": {
+    "guide-note-0": "guide-group",
+    "guide-note-1": "guide-group",
+    "guide-note-2": "guide-group",
+    "guide-note-3": "guide-group",
+    "guide-note-4": "guide-group",
+    "guide-note-5": "guide-group",
+    "guide-note-6": "guide-group",
+    "guide-note-7": "guide-group"
+  },
+  "groupCollapsed": {},
+  "groupColors": {},
+  "windowSize": {},
+  "templateOrders": {},
+  "templates": [
+    {
+      "id": "share-guide-template",
+      "name": "使用说明",
+      "tasks": [
+        {
+          "id": "guide-fixed-0",
+          "text": "使用说明：添加上午任务",
+          "section": "上午",
+          "note": "在上午点击右下角＋。",
+          "time": "",
+          "reminderMode": "off",
+          "reminderAt": "",
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "appearDays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "reviewMinutes": 0
+        },
+        {
+          "id": "guide-fixed-1",
+          "text": "使用说明：打钩完成",
+          "section": "上午",
+          "note": "左侧方框单击即可完成。",
+          "time": "",
+          "reminderMode": "off",
+          "reminderAt": "",
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "appearDays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "reviewMinutes": 0
+        },
+        {
+          "id": "guide-fixed-2",
+          "text": "使用说明：设置任务提醒",
+          "section": "上午",
+          "note": "点击编辑可设置时间与提醒。",
+          "time": "",
+          "reminderMode": "off",
+          "reminderAt": "",
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "appearDays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "reviewMinutes": 0
+        },
+        {
+          "id": "guide-fixed-3",
+          "text": "使用说明：管理固定表单",
+          "section": "上午",
+          "note": "从齿轮进入表单设置。",
+          "time": "",
+          "reminderMode": "off",
+          "reminderAt": "",
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "appearDays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "reviewMinutes": 0
+        },
+        {
+          "id": "guide-fixed-4",
+          "text": "使用说明：添加下午任务",
+          "section": "下午",
+          "note": "在下午点击右下角＋。",
+          "time": "",
+          "reminderMode": "off",
+          "reminderAt": "",
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "appearDays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "reviewMinutes": 0
+        },
+        {
+          "id": "guide-fixed-5",
+          "text": "使用说明：完成后再次提醒",
+          "section": "下午",
+          "note": "任务右键设置5／10分钟后提醒。",
+          "time": "",
+          "reminderMode": "off",
+          "reminderAt": "",
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "appearDays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "reviewMinutes": 0
+        },
+        {
+          "id": "guide-fixed-6",
+          "text": "使用说明：移到明天",
+          "section": "下午",
+          "note": "任务右键可将当天工作顺延。",
+          "time": "",
+          "reminderMode": "off",
+          "reminderAt": "",
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "appearDays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "reviewMinutes": 0
+        }
+      ]
+    }
+  ],
+  "selectedTemplate": "share-guide-template",
+  "lastTemplateUseDate": "",
+  "sloganIndex": -1,
+  "theme": "cream",
+  "title": "吐司办公",
+  "weekend": false
+}
